@@ -55,6 +55,9 @@
     .icon-tablet {
         display: none;
     }
+    .botao{
+        display: none;
+    }
 
     .nav-bar {
         display: flex;
