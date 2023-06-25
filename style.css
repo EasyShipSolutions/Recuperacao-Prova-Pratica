@@ -1,0 +1,169 @@
+@media (max-width:768px) {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+
+    .parte-1 {
+        width: 768;
+    }
+
+    .parte-2 {
+        width: 768;
+    }
+
+    .icon-3 {
+        display: none;
+    }
+
+    .infor3 {
+        display: none;
+    }
+
+    .info3 {
+        display: none;
+    }
+
+    .info {
+        display: none;
+    }
+
+    .infor-4 {
+        display: none;
+    }
+
+    .infor {
+        display: none;
+    }
+
+    .btn-tablet {
+        display: none;
+    }
+
+    .btn {
+        display: none;
+    }
+
+    .btn-cell {
+        display: none;
+    }
+    .icon-tablet {
+        display: flex;
+        height: 35px;
+        width: 35px;
+        margin-left: 420px;
+    }
+    .nav-bar {
+        display: flex;
+        justify-content: space-between;
+        height: 45px;
+        padding-top: 10px;
+        
+    }
+    
+    
+    .nav-bar span {
+        margin-right: 50px;
+        color: white;
+    }
+    .nav-bar img {
+        padding-left: 50px;
+        padding-top: 11px;
+        width: 180px;
+    }
+    .links {
+        padding-top: 19px;
+        margin-left: -50px;
+
+    }
+    .links span {
+        display: none;
+        font-size: 9pt;
+        font-style: normal;
+        font-family: 'Inter', sans-serif;
+    }
+    .links img {
+        padding: 0;
+        margin: 0;
+        width: 10px;
+    }
+
+    .inputs {
+        padding-right: 150px;
+        padding-top: 5px;
+
+
+    }
+
+    .inputs button {
+        margin-right: 5px;
+
+    }
+
+
+     .btn-1 {
+        display: none;
+
+
+    }
+
+    .btn-2 {
+        display: none;
+    }
+    .parte-1 {
+        background-image: url("Assets/Background.png");
+        background-size: 55rem;
+        height: 38em;
+        background-position: -100px;
+    }
+    .info {
+        justify-content: space-between;
+        display: flex;
+        flex-direction: column;
+        padding-top: 75px;
+        margin-right: 100px;
+        padding-left: 100px;
+
+    }
+    .info h1 {
+        color: white;
+        font-size: 35pt;
+        font-family: 'Inter', sans-serif;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .info p {
+        color: white;
+        padding-top: 50px;
+        font-family: 'Inter', sans-serif;
+        font-size: 15px;
+        text-align: center;
+
+    }
+
+    .botao {
+        padding-top: 50px;
+        padding-left: 290px;
+        margin-right: 100px;
+
+    }
+
+    .botao button {
+        width: 190px;
+        height: 60px;
+        background: rgba(79, 156, 249, 1);
+        border-radius: 8px;
+        color: white;
+        font-size: 15px;
+        border: none;
+
+    }
+    .info2 {
+        display: flex;
+        flex-direction: column;
+        height: 55em;
+        justify-content: center;
+
+    }
